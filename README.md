@@ -1,5 +1,7 @@
 # codex-security 速查表 | codex-security Cheatsheet | Guía rápida de codex-security
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **它不只报漏洞，还会验证这条到底能不能触发、再给你补丁——但先看第一屏的权限与成本口径，别裸奔开扫**
 
 > 一页看懂 OpenAI 的 codex-security：官方出的漏洞扫描 CLI 与 TypeScript SDK。能扫整个仓库、指定路径或一次 diff，能验证候选发现、生成补丁、核验已有修复，还带 GitHub Action、容器批量扫与 SARIF/JSON/CSV 导出。官方文档站已有西语与葡语译版，所以这张不卖翻译，卖的是把权限边界、成本上限和扫前纪律收在一页的实战口径。
